@@ -2,8 +2,8 @@
 
 > Programming for practice & fun.
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Atlanticity91&show_icons=true&theme=dark&show_owner=false&hide_border=true&count_private=true" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atlanticity91&layout=compact&theme=dark&hide_border=true&count_private=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Atlanticity91&show_icons=true&theme=dark&show_owner=false&hide_border=true&count_private=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atlanticity91&layout=compact&theme=dark&hide_border=true&count_private=true" />
 
 ## Languages
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
