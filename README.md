@@ -14,7 +14,7 @@ I'm a self-taught game engine developper and love to make stuff with C++ and C#.
 
 ## Top Repositories
 
-<a href="https://github.com/anuraghazra/atlanticity91.github.io">
+<a href="https://github.com/Atlanticity91/atlanticity91.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=atlanticity91.github.io&theme=midnight-purple" alt="Github Page" />
 </a>
 <a href="https://github.com/Atlanticity91/Micro" >
