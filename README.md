@@ -26,6 +26,9 @@ I'm a self-taught game engine developper and love to make stuff with C++ and C#.
 <a href="https://github.com/Atlanticity91/TinySquad" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=TinySquad&theme=midnight-purple" alt="Game engine based on Micro" />
 </a>
+<a href="https://github.com/Atlanticity91/Py-Embedder" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=Py-Embedder&theme=midnight-purple" alt="Utility tool for generating C header for embedded files." />
+</a>
 
 <br />
 <br />
