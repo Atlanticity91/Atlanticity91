@@ -33,6 +33,8 @@ I'm a self-taught game engine developper and love to make stuff with C++ and C#.
 </a>
 <a href="https://github.com/Atlanticity91/Py-Embedder" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=Py-Embedder&theme=midnight-purple" alt="Utility tool for generating C header for embedded files." />
+<a href="https://github.com/Atlanticity91/ReactTodo" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=ReactTodo&theme=midnight-purple" alt="React todo list application." />
 </a>
 
 <br />
