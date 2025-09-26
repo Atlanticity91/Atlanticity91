@@ -22,8 +22,8 @@ I'm a self-taught game engine developper and love to make stuff with C++ and C#.
 <a href="https://github.com/Atlanticity91/atlanticity91.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=atlanticity91.github.io&theme=midnight-purple" alt="Github Page" />
 </a>
-<a href="https://github.com/Atlanticity91/Micro" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=Micro&theme=midnight-purple" alt="Micro Solution" />
+<a href="https://github.com/Atlanticity91/chip8" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=chip8&theme=midnight-purple" alt="Chip-8 Emulator" />
 </a>
 <a href="https://github.com/Atlanticity91/GLW" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlanticity91&repo=GLW&theme=midnight-purple" alt="OpenGL Wrapper" />
